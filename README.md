@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Reza Gusnanda
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Laravel
+- 🌱 I'm currently working with Codeigniter 3, but at the moment I'm also trying how to work with Laravel
 - 📫 How to reach me adityarzg@gmail.com / instagram : @cssjsx / twitter : @adityarezag
 
 <!---
